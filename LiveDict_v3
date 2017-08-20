@@ -1,3 +1,5 @@
+#LiveDict_v3 Build 2082017 by Yagnesh Vakharia
+
 from tkinter import *
 from tkinter import ttk
 from PyDictionary import PyDictionary
